@@ -1,0 +1,6 @@
+{
+  "name": "StockWatch ERP Monitor",
+  "description": "Dashboard monitoring tarikan Bot MTS2, dokumen outstanding, dan rekonsiliasi stok inputan cabang (Accessories, Raw Material, Manufacturing) terhadap stok sistem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
